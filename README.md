@@ -10,7 +10,11 @@ In this project, I analyzed key funnel metrics including conversion rate, drop-o
 The major drop-off points in the funnel occur after email submission (21.2% drop-off) and then when setting password and starting the trial (29.5% and 26.7% respectively). In between submitting contact info and setting the password there was negligible drop-off between these steps. For each of the three key friction points, I developed two targeted A/B testing ideas, along with additional actionable product recommendations to enhance the sign-up flow. My data-driven insights and structured experimentation approach were well-received, and the clarity of my recommendations left a strong impression on the team.
 
 ## What to expect in this repo? 
+Case_Study.csv, a funnel activities dataset with columns: user_id, timestamp, step-completed, and channel. The data ranges from 03-01-2025 to 03-31-2025.
 
+Funnel_slide_deck.pdf, a presentation with includes summary of key insights, visualizations, and actionable recommendations. 
+
+A jupyter notebook, a working file with SQL queries to locally processing the data, calculate KPIs, and conduct segment analysis.   
 
 ## Data source
 The data is kindly provided by a fintech company.
