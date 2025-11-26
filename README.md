@@ -1,4 +1,4 @@
-# sign-up-funnel 📥
+# signup-funnel-optimization 📥
 
 ## Problem Statement
 The company has recently launched a new sign-up experience but lacks visibility into funnel performance and user experience. Analyze the user funnel, identify where and why users are dropping off, and provide recommendations to improve conversion and activation rate.
